@@ -17,5 +17,8 @@
     "mongoose": "^7.4.3",
     "nanoid": "^4.0.2",
     "ora": "^7.0.1"
+  },
+  "bin": {
+    "todo": "index.js"
   }
 }

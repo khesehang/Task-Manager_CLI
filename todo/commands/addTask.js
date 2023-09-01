@@ -62,5 +62,3 @@ export default async function addTask() {
         process.exit(1)
     }
 }
-
-addTask()
