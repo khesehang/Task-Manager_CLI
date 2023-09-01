@@ -52,4 +52,4 @@ export default async function deleteTask() {
     }
 }
 
-deleteTask()
+// deleteTask()
